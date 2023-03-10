@@ -1,2 +1,2 @@
 #!/bin/bash
-chmon -R vincent:staff
+chmon -hR vincent:staff .
